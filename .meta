@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "Faceshell-cli": "git@github.com:devways/Faceshell-cli.git",
+    "Faceshell-api": "git@github.com:devways/Faceshell-api.git"
+  }
+}
